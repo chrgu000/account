@@ -18,7 +18,7 @@
 |#   | name  | account   | lpwd        | email   |phone | remark|
 | ---|---    | ---      | ---    |---     |---    |---    |
 | 1  | QQ | 4****08765 | 4574.e***.qq1 | 4574****@qq.com | 185****8657 | |
-| 2  | QQ | 1726801110 | 4574.e***.qq2 | 1726801110@qq.com | 185****8657 || 
+| 2  | QQ | 1726801110 | 4574.e***.qq2 | 172680****@qq.com | 185****8657 || 
 | 3  | 微信 | liuyixuan-2011 | 4574.e***.wxl | 4574****@qq.com | 185****8657 | 支付：61* 679*|
 
 |#   | name  | account         | lpwd              | jpwd |band     |
@@ -30,9 +30,9 @@
 |#   | name  | account         | lpwd              | 
 | ---|---    | ---              | ---              |
 | 1| AppleID   | 18311233066    |45**.yx.ap.X |    
-| 2| AppleID2   | 172****0@qq.com    |1989****xX | 
+| 2| AppleID2   | 172****@qq.com    |1989****xX | 
 
 
 |#   | name  | account         | lpwd              | email|
 | ---|---    | ---              | ---              |--- |
-| 1| paypal   | 13264248001    |45**.eshine.P |  172@qq.com  |
+| 1| paypal   | 13264248001    |45**.eshine.P |  172****@qq.com  |

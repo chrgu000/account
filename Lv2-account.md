@@ -13,7 +13,7 @@
 
 |#   | name  | account | lpwd | email   |phone |
 | ---|---    | ---      | ---    |---     |---    |
-| 1  | 阿里云 | 淘宝号登录 |  | 4574****@qq.com | 185****8657 |
+| 1  | 阿里云 | 淘宝号、邮箱登录 | ***4.eshine.aly | 4574****@qq.com | 185****8657 |
 
 |#   | name  | account   | lpwd        | email   |phone | remark|
 | ---|---    | ---      | ---    |---     |---    |---    |

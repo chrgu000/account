@@ -53,3 +53,10 @@ Gofun1
 * 1726801110@qq.com  
 * 19890123x
 * 二次验证 18514588657
+
+
+
+
+https://segmentfault.com/
+* 18514588657
+* 19890123x.segment
